@@ -1,0 +1,440 @@
+@media only screen and (max-width:1249px) {
+    .dropdown-coins select,
+    .price-text {
+        font-size: 16px;
+    }
+    .input-value input {
+        max-width: 140px;
+        min-width: 140px;
+    }
+    .r-arrow {
+        margin: 0 5px;
+    }
+    .wallet-btn a {
+        padding: 0 5px;
+    }
+}
+
+@media only screen and (max-width:1169px) {
+    .f-title {
+        font-size: 18px;
+    }
+    .r-copyright {
+        align-items: center;
+        justify-content: center;
+        margin-top: 15px;
+        flex-wrap: wrap;
+    }
+    .v-right-content span {
+        font-size: 20px;
+    }
+    .start-in-seconds-section {
+        padding: 50px 0;
+    }
+    .bnb-title strong,
+    .ovenswap-title strong {
+        font-size: 14px;
+    }
+    .f-top-link li a {
+        padding: 5px 15px;
+    }
+    .f-middle span,
+    .f-middle strong {
+        font-size: 14px;
+    }
+    .bottom-box-content {
+        padding: 0 10px 20px 10px;
+    }
+}
+
+@media only screen and (max-width:991px) {
+    .c-container {
+        padding: 0 15px;
+    }
+    .start-in-seconds-section,
+    footer,
+    .two-part-section,
+    .home-banner,
+    .p-100,
+    .tabs-section,
+    .win-million-prize {
+        padding: 30px 0;
+    }
+    .f-left-content p {
+        max-width: 100%;
+    }
+    .btn-link-center {
+        height: 40px;
+        padding: 0 20px;
+        margin-top: 15px;
+    }
+    .box-padding small {
+        font-size: 20px;
+    }
+    .box-padding strong {
+        font-size: 25px;
+    }
+    .box-padding span,
+    .box-padding p {
+        font-size: 18px;
+    }
+    .home-banner .owl-dots {
+        position: unset;
+        transform: unset;
+        flex-direction: unset;
+        align-items: center;
+        justify-content: center;
+        margin-top: 15px;
+    }
+    .home-banner .owl-dots .owl-dot {
+        margin-bottom: 0;
+        margin: 0 5px;
+    }
+    .b-content h1,
+    .used-million-section h3 {
+        font-size: 34px;
+    }
+    .three-box-content strong {
+        font-size: 34px;
+        line-height: 34px;
+    }
+    .three-box-content small {
+        font-size: 18px;
+    }
+    .top-bg::before,
+    .three-box::after,
+    .bg-curve-silver::after,
+    .bg-curve-light-yellow::before,
+    .bg-curve-light-sky::after {
+        display: none;
+    }
+    .bg-curve-silver,
+    .bg-curve-light-yellow,
+    .bg-curve-light-sky {
+        background-image: none;
+    }
+    .bg-curve-light-sky {
+        padding-top: 100px;
+    }
+    .tabs-section .nav.nav-pills {
+        margin-bottom: 20px;
+    }
+    .t-title h3 {
+        font-size: 35px;
+    }
+    .t-title span {
+        font-size: 15px;
+        margin: 5px 0 0;
+    }
+    header .dropdown-menu {
+        left: -70px;
+    }
+    .p-b-0 {
+        padding-bottom: 0;
+    }
+    .t-title input {
+        margin-top: 10px;
+    }
+    .t-item {
+        min-width: 245px;
+    }
+    .modified {
+        min-width: 72px;
+    }
+    .activity-table .bnb-title {
+        min-width: 130px;
+    }
+    .t-status {
+        min-width: 150px;
+    }
+    .from {
+        min-width: 110px;
+    }
+    .to {
+        min-width: 20px;
+    }
+    .t-date {
+        min-width: 120px;
+    }
+    .connect-wallet-coin {
+        margin-top: 15px;
+    }
+    .wallet-btn a {
+        padding: 0 15px;
+    }
+    .tabbing-graph {
+        margin-top: 30px;
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .section-title h3 {
+        font-size: 25px;
+    }
+    .h-menu li,
+    .h-price,
+    .h-icon li {
+        margin-right: 10px;
+    }
+    .connect-wallet a {
+        padding: 0px 6px;
+        height: 30px;
+        font-size: 12px;
+    }
+    .no-registration {
+        font-size: 20px;
+    }
+    .box-padding {
+        min-height: unset;
+    }
+    .box-btn a {
+        height: 50px;
+        font-size: 18px;
+    }
+    .b-content,
+    .banner-content a {
+        text-align: center;
+    }
+    .banner-image {
+        height: 350px;
+    }
+    .three-box-content {
+        padding: 20px;
+    }
+    .image-content {
+        text-align: center;
+    }
+    .tech-content,
+    .btn-content ul {
+        justify-content: center;
+    }
+    .btn-content {
+        margin-top: 20px;
+    }
+    .btn-content ul li a {
+        margin-top: 0;
+    }
+    .sort-by select,
+    .search-option input {
+        max-width: 150px;
+        min-width: 150px;
+    }
+    .m-coin {
+        margin-top: 15px;
+    }
+    .g-top-detail {
+        padding-bottom: 10px;
+    }
+    .g-middle-graph {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+    .r-m-btn ul {
+        display: flex;
+        margin-top: 10px;
+    }
+    .r-m-btn ul li {
+        margin-left: 0;
+        margin-right: 10px;
+    }
+}
+
+@media only screen and (max-width:575px) {
+    .box-padding img {
+        max-height: 50px;
+    }
+    .logo a img {
+        max-height: 40px;
+    }
+    .h-menu {
+        position: fixed;
+        bottom: 0px;
+        background: #4347c7;
+        left: 0;
+        width: 100%;
+        z-index: 1;
+        padding: 15px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .h-menu li {
+        margin-right: 0;
+    }
+    .h-menu li a:hover {
+        color: #fff;
+    }
+    footer {
+        padding-bottom: 80px;
+    }
+    .b-content h1,
+    .used-million-section h3 {
+        font-size: 25px;
+    }
+    .three-box-content strong {
+        font-size: 25px;
+        line-height: 25px;
+    }
+    .filter-option {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .t-tab a {
+        padding: 6px 12px;
+        font-size: 14px;
+    }
+    .t-title h3 {
+        font-size: 25px;
+    }
+    .t-title a {
+        font-size: 15px;
+    }
+    .filter-option {
+        margin-top: 15px;
+    }
+    .r-f-option {
+        margin-top: 10px;
+    }
+    .sort-by select,
+    .search-option input {
+        max-width: 130px;
+        min-width: 130px;
+    }
+    .value-box {
+        justify-content: center;
+    }
+    .btn-content ul li a {
+        padding: 0 10px;
+    }
+    .left-image img {
+        max-width: 60%;
+    }
+    .image-content h3 {
+        font-size: 25px;
+    }
+    .tech-content {
+        font-size: 20px;
+    }
+    .click-here {
+        right: -40px
+    }
+    .banner-image {
+        height: 250px;
+    }
+    .banner-image img {
+        max-width: 70%;
+        margin: 0 auto;
+    }
+    .market-value-section {
+        padding: 10px;
+    }
+    .overview-box {
+        padding-bottom: 0;
+    }
+    .tabs-section #pills-tab {
+        white-space: nowrap;
+        overflow-x: auto;
+    }
+    .h-menu li a.active {
+        color: #fff !important;
+    }
+    .welcome-box h4 {
+        padding: 20px;
+        font-size: 25px;
+    }
+    .product-beta {
+        padding: 20px;
+    }
+    .product-beta strong {
+        font-size: 20px;
+    }
+    .product-text {
+        font-size: 16px;
+    }
+    .product-checkbox label {
+        font-size: 16px;
+        padding-left: 35px;
+    }
+    .product-beta a {
+        height: 40px;
+        margin-top: 20px;
+    }
+    .coin-name h4 {
+        font-size: 22px;
+    }
+    .coin-name span {
+        font-size: 15px;
+    }
+    .coin-prize span {
+        font-size: 20px;
+    }
+    .coin-prize span strong {
+        font-size: 28px;
+    }
+}
+
+@media only screen and (max-width:399px) {
+    .h-price {
+        display: none;
+    }
+    .liquidity h4 {
+        font-size: 22px;
+    }
+    .liquidity {
+        padding: 20px;
+    }
+    .liquidity img {
+        top: 1px;
+    }
+    .liquidity span {
+        font-size: 15px;
+    }
+    .connect-wallet {
+        font-size: 15px;
+        margin: 30px 0;
+    }
+    .liquidity a {
+        height: 40px;
+    }
+    .convert-coin {
+        padding: 10px;
+    }
+    .dropdown-coins select {
+        font-size: 12px;
+        margin-left: 0;
+    }
+    .input-value input {
+        max-width: 110px;
+        min-width: 115px;
+    }
+    .tolerance small {
+        font-size: 12px;
+    }
+    .wallet-btn a {
+        padding: 0 10px;
+        font-size: 13px;
+    }
+    .coin-name span {
+        font-size: 14px;
+    }
+    .g-top-detail img {
+        margin-right: 5px;
+    }
+    .g-top-detail span {
+        font-size: 15px;
+    }
+    .coin-prize span {
+        font-size: 18px;
+    }
+    .coin-prize span strong {
+        font-size: 20px;
+    }
+    .r-m-btn ul li {
+        margin-right: 4px;
+    }
+    .g-top-detail {
+        padding: 10px;
+    }
+    .g-middle-graph {
+        padding: 10px;
+    }
+}

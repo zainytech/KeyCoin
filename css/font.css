@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Kanit';
+    src: url('../fonts/Kanit-Regular.eot');
+    src: url('../fonts/Kanit-Regular.eot?#iefix') format('embedded-opentype'), url('../fonts/Kanit-Regular.woff2') format('woff2'), url('../fonts/Kanit-Regular.woff') format('woff'), url('../fonts/Kanit-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('../fonts/Kanit-SemiBold.eot');
+    src: url('../fonts/Kanit-SemiBold.eot?#iefix') format('embedded-opentype'), url('../fonts/Kanit-SemiBold.woff2') format('woff2'), url('../fonts/Kanit-SemiBold.woff') format('woff'), url('../fonts/Kanit-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('../fonts/Kanit-ExtraBold.eot');
+    src: url('../fonts/Kanit-ExtraBold.eot?#iefix') format('embedded-opentype'), url('../fonts/Kanit-ExtraBold.woff2') format('woff2'), url('../fonts/Kanit-ExtraBold.woff') format('woff'), url('../fonts/Kanit-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('../fonts/Kanit-Light.eot');
+    src: url('../fonts/Kanit-Light.eot?#iefix') format('embedded-opentype'), url('../fonts/Kanit-Light.woff2') format('woff2'), url('../fonts/Kanit-Light.woff') format('woff'), url('../fonts/Kanit-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Crafty Girls';
+    src: url('../fonts/CraftyGirls-Regular.eot');
+    src: url('../fonts/CraftyGirls-Regular.eot?#iefix') format('embedded-opentype'), url('../fonts/CraftyGirls-Regular.woff2') format('woff2'), url('../fonts/CraftyGirls-Regular.woff') format('woff'), url('../fonts/CraftyGirls-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
